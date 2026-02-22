@@ -1,2 +1,3 @@
-# next-devops-toolkit-6x6r
-A DevOps automation toolkit for modern development workflows
+# Next Devops Toolkit 6X6R
+
+A DevOps automation toolkit for modern development workflows.
